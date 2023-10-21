@@ -32,6 +32,6 @@ I encourage you to join me in this challenge! Whether you're a beginner or an ex
 
 Let's embark on this Python journey together and keep the code flowing!
 
-Happy coding!
+Happy Coding!
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
