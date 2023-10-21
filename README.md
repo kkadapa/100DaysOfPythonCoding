@@ -28,7 +28,7 @@ I encourage you to join me in this challenge! Whether you're a beginner or an ex
 
 ## Connect with Me
 
-- Github: https://github.com/kkadapa/1
+- Github: https://github.com/kkadapa
 
 Let's embark on this Python journey together and keep the code flowing!
 
