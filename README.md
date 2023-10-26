@@ -4,7 +4,7 @@ Welcome to my personal repository for the "100 Days of Python Code" challenge. T
 
 ## About the Challenge
 
-The "100 Days of Python Code" challenge is an excellent way to enhance your Python skills, learn new libraries, and work on Python projects. This repository serves as a log of my progress, a collection of Python code snippets, and a showcase of the projects I work on during this challenge.
+The "100 Days of Python Code" challenge is an excellent way to enhance your Python skills, learn new libraries, and work on Python projects. This repository serves as a log of my progress, a collection of Python code snippets, and a showcase of the projects I work on during this challenge. I am taking most of my work from freecodecamp article which is listed here https://www.freecodecamp.org/news/the-python-code-example-handbook/.
 
 ## What to Expect
 
